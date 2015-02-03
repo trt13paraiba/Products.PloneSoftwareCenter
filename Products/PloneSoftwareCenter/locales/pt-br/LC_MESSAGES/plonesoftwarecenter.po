@@ -18,186 +18,186 @@ msgstr ""
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:40
 msgid "${product_title}"
-msgstr ""
+msgstr "Produtos Adicionados"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:102
 msgid "${product_title} Releases"
-msgstr ""
+msgstr "Releases dos Produtos Adicionados"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:183
 msgid "${results_projects} projects matching your criteria."
-msgstr ""
+msgstr "${results_projects} projetos correspondentes aos seus critérios."
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:42
 msgid "Add-on Products"
-msgstr ""
+msgstr "Produtos adicionados"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:104
 msgid "Add-on Releases"
-msgstr ""
+msgstr "Releases adicionadas"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:219
 msgid "All Releases"
-msgstr ""
+msgstr "Todas as releases"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:111
 msgid "All categories"
-msgstr ""
+msgstr "Todas as categorias"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:268
 msgid "Browse ${product_title} by Category"
-msgstr ""
+msgstr "Procurar ${product_title} por Categoria"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:270
 msgid "Browse Add-ons by Category"
-msgstr ""
+msgstr "Procurar adicionados por Categoria"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:226
 msgid "Compatibility"
-msgstr ""
+msgstr "Compatibilidade"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:144
 msgid "Current Release"
-msgstr ""
+msgstr "Release atual"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:46
 msgid "Currently there are ${psc_project_count} projects with ${psc_release_count} releases available."
-msgstr ""
+msgstr "Atualmente existem ${psc_project_count} projetos com ${psc_release_count} releases disponíveis."
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:225
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #: ../skins/plonesoftwarecenter/psc_file_view.pt:56
 msgid "Download ${psc_filename_view}"
-msgstr ""
+msgstr "Baixar ${psc_filename_view}"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:81
 msgid "Download Plone"
-msgstr ""
+msgstr "Baixar Plone"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:178
 msgid "Download file"
-msgstr ""
+msgstr "Baixar arquivo"
 
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:117
 msgid "For"
-msgstr ""
+msgstr "Para"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:59
 msgid "Get ${featured_project_title} For Your Platform"
-msgstr ""
+msgstr "Obter ${featured_project_title} Para Sua Plataforma"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:146
 msgid "Highest Rated"
-msgstr ""
+msgstr "Mais avaliados"
 
 #: ../skins/plonesoftwarecenter/portlet_project_info.pt:15
 #: ../skins/plonesoftwarecenter/psc_file_view.pt:27
 msgid "Info"
-msgstr ""
+msgstr "Informação"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:76
 msgid "Latest release: ${featured_project_title} ${featured_project_release_id} (${featured_project_release_date})"
-msgstr ""
+msgstr "Última release: ${featured_project_title} ${featured_project_release_id} (${featured_project_release_date})"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:227
 msgid "Licenses"
-msgstr ""
+msgstr "Licenças"
 
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:72
 msgid "Log in to add Software Project"
-msgstr ""
+msgstr "Entrar para adicionar Projeto de Software"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:149
 msgid "Most Downloaded"
-msgstr ""
+msgstr "Mais Baixados"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:155
 msgid "Newest"
-msgstr ""
+msgstr "Mais novo"
 
 #: ../content/validators.py:60
 #: ../validators.py:74
 msgid "Not a valid contact."
-msgstr ""
+msgstr "Não é um contato válido."
 
 #: ../browser/release.py:71
 msgid "Please only use numbers, letters, underscores (_), dashes (-) and periods (.) in the version string, no other punctuation characters or whitespace"
-msgstr ""
+msgstr "Por favor apenas use números, letras, sublinhado (_), hífens (-) e pontos (.) no nome da versão, nenhum outro caracter de pontuação ou espaço em branco"
 
 #: ../browser/release.py:69
 msgid "Please provide a version number"
-msgstr ""
+msgstr "Por favor providencie um número de versão"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:152
 msgid "Recently Updated"
-msgstr ""
+msgstr "Recentemente Atualizado"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:224
 msgid "Released"
-msgstr ""
+msgstr "Liberado"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:154
 msgid "Released ${latest_release_date}"
-msgstr ""
+msgstr "Liberado ${latest_release_date}"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:165
 msgid "Search"
-msgstr ""
+msgstr "Procurar"
 
 #: ../content/validators.py:39
 #: ../validators.py:50
 msgid "Short name %s is invalid - it is the same as the name of a project category"
-msgstr ""
+msgstr "Nome curto %s é inválido - este é o mesmo nome da categoria do projeto"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:109
 msgid "Show"
-msgstr ""
+msgstr "Mostrar"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:139
 msgid "Sort On"
-msgstr ""
+msgstr "Ordernar"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:228
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:48
 msgid "Submit your ${product_title_addon}"
-msgstr ""
+msgstr "Submeter seu ${product_title_addon}"
 
 #: ../content/validators.py:96
 #: ../validators.py:110
 msgid "This contains packages already claimed by another project."
-msgstr ""
+msgstr "Contém pacotes já utilizados por outro projeto."
 
 #: ../content/validators.py:94
 #: ../validators.py:108
 msgid "This package is already claimed by another project."
-msgstr ""
+msgstr "Este pacote já é utilizado por outro projeto."
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:33
 msgid "This product has not had a release in over 1 year and may no longer be maintained."
-msgstr ""
+msgstr "Este produto não tem tido uma release em mais de 1 ano e talvez não esteja sendo mais mantido."
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:223
 msgid "Version"
-msgstr ""
+msgstr "Versão"
 
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:32
 msgid "Warning"
-msgstr ""
+msgstr "Alerta"
 
 #: ../content/validators.py:89
 #: ../validators.py:103
 msgid "You must provide a list of package names"
-msgstr ""
+msgstr "Você deve prover uma lista de nomes de pacote"
 
 #: ../content/validators.py:80
 #: ../validators.py:94
 msgid "You must set the primary package before you can select secondary packages."
-msgstr ""
+msgstr "Você deve definir o pacote primário antes de poder selecionar pacotes secundários."
 
 #. Default: "The available projects in this category, alphabetized."
 #: ../skins/plonesoftwarecenter/by-category.pt:61
@@ -482,12 +482,12 @@ msgstr ""
 #. Default: "Description for the software center."
 #: ../content/root.py:43
 msgid "help_package_area"
-msgstr ""
+msgstr "Descrição para a central de software."
 
 #. Default: "The complete project description."
 #: ../content/project.py:70
 msgid "help_package_body_text"
-msgstr ""
+msgstr "A descrição completa do projeto"
 
 #. Default: "Contact address for the project. Use mailto: or http:// prefix depending on what contact method you prefer."
 #: ../content/project.py:193
@@ -828,43 +828,43 @@ msgstr ""
 #. Default: "Add New Software Project"
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:58
 msgid "label_add_new_software_project"
-msgstr ""
+msgstr "Adicionar Novo Projeto de Software"
 
 #. Default: "Product Description"
 #: ../content/root.py:183
 msgid "label_addon_description"
-msgstr ""
+msgstr "Descrição do Produto"
 
 #. Default: "Any version"
 #: ../skins/plonesoftwarecenter/psc_view_ploneorg.pt:126
 msgid "label_any_version"
-msgstr ""
+msgstr "Qualquer versão"
 
 #. Default: "Approved"
 #: ../content/project.py:158
 msgid "label_approved"
-msgstr ""
+msgstr "Aprovado"
 
 #. Default: "Categories"
 #: ../content/project.py:98
 msgid "label_categories"
-msgstr ""
+msgstr "Categorias"
 
 #. Default: "Categories"
 #: ../content/root.py:80
 msgid "label_categories_vocab"
-msgstr ""
+msgstr "Categorias"
 
 #. Default: "Classifiers"
 #: ../content/project.py:84
 #: ../content/root.py:54
 msgid "label_classifiers"
-msgstr ""
+msgstr "Classificadores"
 
 #. Default: "Current Release"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:91
 msgid "label_current_stable_release"
-msgstr ""
+msgstr "Release Atual"
 
 #. Default: "Currently listing ${label_project_count} projects with ${label_release_count} releases."
 #: ../skins/plonesoftwarecenter/plonesoftwarecenter_view.pt:83
@@ -874,17 +874,17 @@ msgstr ""
 #. Default: "Description"
 #: ../content/docfolder.py:54
 msgid "label_doc_description"
-msgstr ""
+msgstr "Descrição"
 
 #. Default: "Short name"
 #: ../content/docfolder.py:30
 msgid "label_doc_short_name"
-msgstr ""
+msgstr "Nome curto"
 
 #. Default: "Title"
 #: ../content/docfolder.py:42
 msgid "label_doc_title"
-msgstr ""
+msgstr "Título"
 
 #. Default: "Experimental Releases"
 #: ../skins/plonesoftwarecenter/portlet_project_roadmap.pt:20
@@ -920,7 +920,7 @@ msgstr ""
 #: ../content/downloadablefile.py:57
 #: ../content/filelink.py:35
 msgid "label_file_platform"
-msgstr ""
+msgstr "Plataforma"
 
 #. Default: "File Description"
 #: ../content/downloadablefile.py:35
@@ -956,7 +956,7 @@ msgstr ""
 #. Default: "Available licenses"
 #: ../content/root.py:101
 msgid "label_licenses_vocab"
-msgstr ""
+msgstr "Licenças disponíveis"
 
 #. Default: "This release is no longer supported! If you are using this release, please upgrade to a newer version if possible."
 #: ../skins/plonesoftwarecenter/psc_release_view.pt:45
@@ -976,27 +976,27 @@ msgstr ""
 #. Default: "Description"
 #: ../content/root.py:42
 msgid "label_package_area"
-msgstr ""
+msgstr "Descrição"
 
 #. Default: "Full Project Description"
 #: ../content/project.py:69
 msgid "label_package_body_text"
-msgstr ""
+msgstr "Descrição Completa do Projeto"
 
 #. Default: "Contact address"
 #: ../content/project.py:192
 msgid "label_package_contact_address"
-msgstr ""
+msgstr "Contato"
 
 #. Default: "URL of documentation repository"
 #: ../content/project.py:214
 msgid "label_package_documentation"
-msgstr ""
+msgstr "URL do repositório de documentação"
 
 #. Default: "Home page"
 #: ../content/project.py:203
 msgid "label_package_homepage"
-msgstr ""
+msgstr "Página inicial"
 
 #. Default: "Logo"
 #: ../content/project.py:258
@@ -1031,12 +1031,12 @@ msgstr ""
 #. Default: "Platforms"
 #: ../content/root.py:137
 msgid "label_platforms_vocab"
-msgstr ""
+msgstr "Plataformas"
 
 #. Default: "Category:"
 #: ../skins/plonesoftwarecenter/portlet_project_info.pt:24
 msgid "label_portlet_project_info_category"
-msgstr ""
+msgstr "Categoria:"
 
 #. Default: "Project owner: ${name_portlet_project_resources_owner}"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:95
@@ -1056,12 +1056,12 @@ msgstr ""
 #. Default: "Product Title"
 #: ../content/root.py:174
 msgid "label_product_title"
-msgstr ""
+msgstr "Título do Produto"
 
 #. Default: "Project Description"
 #: ../skins/plonesoftwarecenter/psc_project_view.pt:51
 msgid "label_project_description"
-msgstr ""
+msgstr "Descrição do Projeto"
 
 #. Default: "Distutils id"
 #: ../content/project.py:109
@@ -1081,7 +1081,7 @@ msgstr ""
 #. Default: "Project Evaluators"
 #: ../content/root.py:147
 msgid "label_project_evaluators"
-msgstr ""
+msgstr "Avaliadores de Projeto"
 
 #. Default: "Project Resources"
 #: ../skins/plonesoftwarecenter/portlet_project_resources.pt:15
@@ -1323,7 +1323,7 @@ msgstr ""
 #. Default: "Version"
 #: ../content/release.py:28
 msgid "label_release_version"
-msgstr ""
+msgstr "Versão"
 
 #. Default: "Short name"
 #: ../content/releasefolder.py:24
@@ -1443,7 +1443,7 @@ msgstr ""
 #. Default: "Versions"
 #: ../content/root.py:119
 msgid "label_versions_vocab"
-msgstr ""
+msgstr "Versões"
 
 #. Default: "No projects found in this category."
 #: ../skins/plonesoftwarecenter/by-category.pt:50
